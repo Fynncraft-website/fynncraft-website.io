@@ -1,0 +1,468 @@
+ .u-section-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/Fynncraft-Lobby.png");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 851px;
+}
+
+.u-section-1 .u-text-1 {
+  font-weight: 700;
+  margin: 143px auto 0 34px;
+}
+
+.u-section-1 .u-text-2 {
+  font-weight: 700;
+  margin: -28px 59px 0 570px;
+}
+
+.u-section-1 .u-text-3 {
+  margin: 25px 604px 0 25px;
+}
+
+.u-section-1 .u-text-4 {
+  margin: -128px 59px 0 570px;
+}
+
+.u-section-1 .u-btn-1 {
+  border-style: solid;
+  text-transform: uppercase;
+  letter-spacing: 0px;
+  font-weight: 700;
+  animation-duration: 1000ms;
+  transition-duration: 1.75s;
+  box-shadow: 2px 0 0 0 rgba(0,0,0,0);
+  margin: 221px auto 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 702px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 0;
+    margin-left: 429px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 429px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-right: 0;
+    margin-left: 429px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 538px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 209px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 209px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-left: 209px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 404px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 29px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 29px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-left: 29px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 254px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-left: 0;
+  }
+}
+
+.u-section-1 .u-btn-1 {
+  transition-property: fill, color, background-image, stroke-width, border-style, border-width, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-size, background-position !important;
+}
+
+.u-section-1 .u-btn-1:hover {
+  box-shadow: 0 2px 8px 0 rgba(128,128,128,1) !important;
+}.u-block-4f50-5 {
+  position: absolute;
+  width: auto;
+  height: auto;
+  left: calc(((100% - 1140px) / 2)  + 492px);
+  top: auto;
+  right: auto;
+  bottom: 8px;
+}
+
+.u-block-4f50-3 {
+  position: absolute;
+  left: 0;
+}
+
+.u-block-4f50-4 {
+  position: absolute;
+  right: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-block-4f50-5 {
+    left: calc(((100% - 940px) / 2)  + 392px);
+  }
+}
+
+@media (max-width: 991px) {
+  .u-block-4f50-5 {
+    left: calc(((100% - 720px) / 2)  + 282px);
+  }
+}
+
+@media (max-width: 767px) {
+  .u-block-4f50-5 {
+    left: calc(((100% - 540px) / 2)  + 192px);
+  }
+}
+
+@media (max-width: 575px) {
+  .u-block-4f50-5 {
+    left: calc(((100% - 340px) / 2)  + 92px);
+  }
+}
+
+ .u-section-2-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/depositphotos_51116299-stock-illustration-green-chalkboard.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-2-1 .u-sheet-1 {
+  min-height: 777px;
+}
+
+.u-section-2-1 .u-text-1 {
+  font-size: 4.5rem;
+  margin: 123px auto 0;
+}
+
+.u-section-2-1 .u-text-2 {
+  font-size: 3rem;
+  width: 740px;
+  margin: 123px auto 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2-1 .u-sheet-1 {
+    min-height: 641px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2-1 .u-sheet-1 {
+    min-height: 491px;
+  }
+
+  .u-section-2-1 .u-text-1 {
+    margin-left: 29px;
+  }
+
+  .u-section-2-1 .u-text-2 {
+    width: 720px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2-1 .u-sheet-1 {
+    min-height: 368px;
+  }
+
+  .u-section-2-1 .u-text-1 {
+    font-size: 3rem;
+    margin-left: 18px;
+  }
+
+  .u-section-2-1 .u-text-2 {
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2-1 .u-sheet-1 {
+    min-height: 232px;
+  }
+
+  .u-section-2-1 .u-text-1 {
+    font-size: 2.75rem;
+    margin-left: 23px;
+  }
+
+  .u-section-2-1 .u-text-2 {
+    width: 340px;
+  }
+}
+
+ .u-section-2-2 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/depositphotos_51116299-stock-illustration-green-chalkboard.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-2-2 .u-sheet-1 {
+  min-height: 777px;
+}
+
+.u-section-2-2 .u-text-1 {
+  font-size: 4.5rem;
+  width: 501px;
+  margin: 123px auto 0;
+}
+
+.u-section-2-2 .u-text-2 {
+  font-size: 3rem;
+  width: 740px;
+  margin: 123px auto 0;
+}
+
+.u-section-2-2 .u-text-3 {
+  font-size: 3rem;
+  width: 740px;
+  margin: 12px auto 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2-2 .u-sheet-1 {
+    min-height: 641px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2-2 .u-sheet-1 {
+    min-height: 491px;
+  }
+
+  .u-section-2-2 .u-text-1 {
+    margin-left: 29px;
+  }
+
+  .u-section-2-2 .u-text-2 {
+    width: 720px;
+  }
+
+  .u-section-2-2 .u-text-3 {
+    width: 720px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2-2 .u-sheet-1 {
+    min-height: 368px;
+  }
+
+  .u-section-2-2 .u-text-1 {
+    font-size: 3rem;
+    margin-left: 18px;
+  }
+
+  .u-section-2-2 .u-text-2 {
+    width: 540px;
+  }
+
+  .u-section-2-2 .u-text-3 {
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2-2 .u-sheet-1 {
+    min-height: 232px;
+  }
+
+  .u-section-2-2 .u-text-1 {
+    font-size: 2.75rem;
+    margin-left: 23px;
+    width: 340px;
+  }
+
+  .u-section-2-2 .u-text-2 {
+    width: 340px;
+  }
+
+  .u-section-2-2 .u-text-3 {
+    width: 340px;
+  }
+}
+
+ .u-section-2-3 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/depositphotos_51116299-stock-illustration-green-chalkboard.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-2-3 .u-sheet-1 {
+  min-height: 777px;
+}
+
+.u-section-2-3 .u-text-1 {
+  font-size: 4.5rem;
+  width: 501px;
+  margin: 123px auto 0;
+}
+
+.u-section-2-3 .u-text-2 {
+  font-size: 3rem;
+  width: 740px;
+  margin: 123px auto 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2-3 .u-sheet-1 {
+    min-height: 641px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2-3 .u-sheet-1 {
+    min-height: 491px;
+  }
+
+  .u-section-2-3 .u-text-1 {
+    margin-left: 29px;
+  }
+
+  .u-section-2-3 .u-text-2 {
+    width: 720px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2-3 .u-sheet-1 {
+    min-height: 368px;
+  }
+
+  .u-section-2-3 .u-text-1 {
+    font-size: 3rem;
+    margin-left: 18px;
+  }
+
+  .u-section-2-3 .u-text-2 {
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2-3 .u-sheet-1 {
+    min-height: 232px;
+  }
+
+  .u-section-2-3 .u-text-1 {
+    font-size: 2.75rem;
+    margin-left: 23px;
+    width: 340px;
+  }
+
+  .u-section-2-3 .u-text-2 {
+    width: 340px;
+  }
+}
+
+ .u-section-2-4 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/depositphotos_51116299-stock-illustration-green-chalkboard.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-2-4 .u-sheet-1 {
+  min-height: 777px;
+}
+
+.u-section-2-4 .u-text-1 {
+  font-size: 4.5rem;
+  width: 740px;
+  margin: 123px auto 0;
+}
+
+.u-section-2-4 .u-text-2 {
+  font-size: 3rem;
+  width: 740px;
+  margin: 123px auto 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2-4 .u-sheet-1 {
+    min-height: 641px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2-4 .u-sheet-1 {
+    min-height: 491px;
+  }
+
+  .u-section-2-4 .u-text-1 {
+    margin-left: 29px;
+    width: 720px;
+  }
+
+  .u-section-2-4 .u-text-2 {
+    width: 720px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2-4 .u-sheet-1 {
+    min-height: 368px;
+  }
+
+  .u-section-2-4 .u-text-1 {
+    font-size: 3rem;
+    margin-left: 18px;
+    width: 540px;
+  }
+
+  .u-section-2-4 .u-text-2 {
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2-4 .u-sheet-1 {
+    min-height: 232px;
+  }
+
+  .u-section-2-4 .u-text-1 {
+    font-size: 2.75rem;
+    margin-left: 23px;
+    width: 340px;
+  }
+
+  .u-section-2-4 .u-text-2 {
+    width: 340px;
+  }
+}
